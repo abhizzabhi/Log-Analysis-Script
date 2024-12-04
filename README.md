@@ -12,7 +12,7 @@ Place your log file in the project directory or provide its path.
 Update the constants in the script (optional):                                                                                    
 LOG_FILE: Path to your log file.                                                                                                  
 OUTPUT_CSV: Name of the output CSV file.                                                                                          
-FAILED_LOGIN_THRESHOLD: Set a threshold for detecting suspicious IPs.                                                                                                                                                                                               
+FAILED_LOGIN_THRESHOLD: Set a threshold for detecting suspicious IPs.                                                                                                                                                                                                                                                           
 Run the script:                                                                                                                   
 python log_analysis.py                                                                                                            
 View the results:                                                                                                                 
