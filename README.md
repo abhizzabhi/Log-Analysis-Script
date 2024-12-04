@@ -4,7 +4,7 @@ This project is a Python-based log analysis tool designed to process web server 
 Installation
 Clone the repository:
 git clone https://github.com/your-username/log-analysis-tool.git                                                                  
-cd log-analysis-tool
+cd log-analysis-tool                                                                                                              
 Ensure Python 3.x is installed on your system.
 
 Usage
