@@ -8,14 +8,13 @@ cd log-analysis-tool
 Ensure Python 3.x is installed on your system.
 
 Usage
-Place your log file in the project directory or provide its path.
-Update the constants in the script (optional):
-LOG_FILE: Path to your log file.
-OUTPUT_CSV: Name of the output CSV file.
-FAILED_LOGIN_THRESHOLD: Set a threshold for detecting suspicious IPs.
-
-Run the script:
-python log_analysis.py      
-View the results:
-Terminal: Summary of key metrics.
+Place your log file in the project directory or provide its path.                                                                 
+Update the constants in the script (optional):                                                                                    
+LOG_FILE: Path to your log file.                                                                                                  
+OUTPUT_CSV: Name of the output CSV file.                                                                                          
+FAILED_LOGIN_THRESHOLD: Set a threshold for detecting suspicious IPs.                                                                                                                                                                                               
+Run the script:                                                                                                                   
+python log_analysis.py                                                                                                            
+View the results:                                                                                                                 
+Terminal: Summary of key metrics.                                                                                                 
 CSV File: Check log_analysis_results.csv for detailed insights.
